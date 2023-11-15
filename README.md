@@ -7,6 +7,7 @@ In this website we use html, tailwinds , and basic of JavaScript to update the p
 # BEFORE PRICE UPDATE
 ![image](https://github.com/sarojkumar2003/Reeco/assets/90202990/5d4ece16-5bc1-4794-bfea-fd7700a71253)
 # AFTER PRICE UPDATE
-![image](https://github.com/sarojkumar2003/Reeco/assets/90202990/ce0e1dde-b677-4936-b12e-78c27feba163)
+![image](https://github.com/sarojkumar2003/Reeco/assets/90202990/aea9b341-f0cd-4837-9d78-beda3ad544d0)
+
 
 
